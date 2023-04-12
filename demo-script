@@ -1,0 +1,2 @@
+cd /tmp/devops-dummy
+echo "welcome to devops-world" > dummy1.txt
